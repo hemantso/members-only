@@ -1,6 +1,6 @@
 # Project : members Only
 
-This project contains use of devise gem for authentication of user. Post model is connected with user model using has_many relaton. user can create the post when logged in. In post author name will be seen when user is logged in.
+This project contains use of devise gem for authentication of user. Post model is connected with user model using has_many relation. user can create the post when logged in. In post author name will be seen when user is logged in.
 
 
 ## Built With
@@ -44,7 +44,7 @@ This project contains use of devise gem for authentication of user. Post model i
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/hemant-soni-vst-au4/Blog-App/issues).
+Feel free to check the [issues page](https://github.com/hemant-soni-vst-au4/members-only/issues).
 
 ## Show your support
 
